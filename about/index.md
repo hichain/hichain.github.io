@@ -1,37 +1,33 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: []
+date: 2018-10-12
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+![HIchain Project]({{ site.url }}/{{ site.logo }}){: .img-small}
+<center>HIchain Projectはボードゲーム制作サークルです</center>
 
-## Preview
+## サークル概要
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+* 「連鎖」や「運要素なし」がテーマのシンプルなボードゲームを制作しています
+* ゲームマーケット、コミックマーケットといったイベントで頒布しています
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+[作品をみる]({{ site.url }}/works/){: .btn.btn-info}
 
-## Getting Started
+## メンバー
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+* [kiito]({{ site.url }}/kiito)
+* [sixd]({{ site.url }}/sixd)
+* [shubarutsu]({{ site.url }}/shubarutsu)
+
+## [出展イベント]({{ site.url }}/events)
+
+## リンク
+
+<a class="social-btn" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i>Twitter</a>イベント情報など最新情報を発信<br />
+<a class="social-btn" href="https://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i>GitHub</a><a href="{{ site.url }}/hichain">HICHAIN</a>の人工知能開発プロジェクトなど<br />
+<a class="social-btn" href="{{ site.hatenablog }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-pencil"></i>Blog</a>制作したボードゲームの手筋などを紹介する代表者のブログ<br />
+<a class="social-btn" href="http://gamemarket.jp/booth/{{ site.gamemarket }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-link"></i>ゲームマーケット ブースページ</a><br />
+<a class="social-btn" href="https://portal.circle.ms/Circle/Index/{{ site.circlems }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-link"></i>コミックマーケット サークルページ</a>

@@ -70,8 +70,8 @@ body {
 	align-items: center;
 }
 .container {
-	width: 36rem;
-	max-width: 550px;
+	width: 38rem;
+	max-width: 580px;
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
@@ -180,17 +180,22 @@ header .entry-meta {
 }
 .entry-tags {
 	display: block;
-    margin-top: 1rem;
-	width: 70%;
+	margin-top: 1rem;
+	width: 100%;
     float: left;
     text-align: left;
 }
 .social-share {
 	display: block;
-    margin-top: 1rem;
-    width: 30%;
-    float: right;
-    text-align: right;
+	margin-top: 1rem;
+	width: 100%;
+    float: left;
+	text-align: left;
+}
+.social-share-home {
+	display: block;
+	margin: 1rem 0;
+	text-align: center;	
 }
 .feature {
     @include transition(.5s);
