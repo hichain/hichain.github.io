@@ -22,12 +22,7 @@ comments: false
 * [sixd]({{ site.url }}/sixd)
 * [shubarutsu]({{ site.url }}/shubarutsu)
 
-## 出展イベント
-
-- [ゲームマーケット2018秋]({{ site.url }}/gm2018ta)
-- [コミックマーケット91]({{ site.url }}/c91)
-- [ゲームマーケット2016秋]({{ site.url }}/gm2016ta)
-- [ゲームマーケット2016春]({{ site.url }}/gm2016ts)
+## [出展イベント]({{ site.url }}/events)
 
 ## リンク
 
