@@ -38,6 +38,7 @@ HICHAINは将棋やオセロのように運要素がないシンプルな2人用
 
 ## 説明書
 
+[B4用]({{ site.url }}/assets/img/works/hichain_manual_b4.pdf){: .btn.btn-success}
 [A3用]({{ site.url }}/assets/img/works/hichain_manual_a3.pdf){: .btn.btn-success}
 [A4用]({{ site.url }}/assets/img/works/hichain_manual_a4.pdf){: .btn.btn-success}
 
