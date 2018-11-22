@@ -20,7 +20,7 @@ comments: false
 
 * [kiito]({{ site.url }}/kiito)
 * [sixd]({{ site.url }}/sixd)
-* [shubarutsu]({{ site.url }}/shubarutsu)
+* [takato]({{ site.url }}/takato)
 
 ## [出展イベント]({{ site.url }}/events)
 
