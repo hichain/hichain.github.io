@@ -36,6 +36,13 @@ HICHAINはリバーシや将棋のように運要素がない2人用アブスト
 またパッケージをリニューアルし、よりHICHAINのシンプルさが伝わるデザインに仕上げました。  
 説明書も以前より分かりやすく改善しました。
 
+## 委託販売について
+
+イエローサブマリン様の店舗にて委託販売しております。  
+詳しくはこちら。
+
+[購入する]({{ site.url }}/hichain-plus-itaku/){: .btn.btn-info}
+
 ## 対局イメージ
 
 ![対局イメージ]({{ site.url }}/assets/img/works/hichain-plus_board.png)
@@ -60,3 +67,5 @@ HICHAINはリバーシや将棋のように運要素がない2人用アブスト
 |対象年齢|8歳以上|
 |会場価格|2,000円|
 |発売|[ゲームマーケット2018秋]({{ site.url }}/events/gm2018ta)
+
+[購入する]({{ site.url }}/hichain-plus-itaku/){: .btn.btn-info}
