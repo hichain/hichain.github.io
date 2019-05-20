@@ -9,7 +9,7 @@ icon:               'assets/img/icon.png'
 background:         'assets/img/background.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ja_JP
-url:                'https://hichain.jp'
+url:                #'https://hichain.jp'
 
 # Jekyll
 permalink:          /:title/
