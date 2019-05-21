@@ -123,6 +123,9 @@ img {
 .img-smaller {
   width: 50%;
 }
+.img-border {
+  border: 1px solid $color_tundora;
+}
 .img-circle {
 	border-radius: 50%;
 	border: 3px solid $white;

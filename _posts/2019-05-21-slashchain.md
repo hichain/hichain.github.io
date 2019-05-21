@@ -12,19 +12,45 @@ image: "/assets/img/works/slashchain.png"
 
 ![作品イメージ]({{ site.url }}{{ page.image }})
 
-## 妨害と連鎖のせめぎあい！
+## 四倍速五目並べ
 
-### Ｈ＝Ｉ, Ｃ＝Ｕ, Ｍ＝Ｗ？
+slashchain (スラッシュチェイン)はシンプルな2人用アブストラクトゲームです。
 
-HICHAINはリバーシや将棋のように運要素がない2人用アブストラクトゲーム。
+「5つラインを並べれば勝ち」と五目並べのように単純明快なルールでありながら、極めるには難しくやりごたえのあるゲームです。
 
-ルールはシンプル！「アルファベット順に並べて連鎖を組む」だけです。
+[HICHAIN]({{ site.url }}/hichain-plus)の「相手を利用して自分を有利に進める要素」やシンプルなデザイン性を取り入れ、より覚えやすく気軽に楽しめるゲームに仕上げました。
 
-ただHを回転させるとIになるように向きによって別の文字になるカードがいくつかあります。
+プレイ時間は5〜20分で、使うタイルの枚数によって時間を調整できます。
 
-自分の連鎖を伸ばすか、相手が置きづらいように妨害するか、頭の中で盤を回転させて先を読む…
+空いた時間にちょっとボードゲームがしたい方から将棋や囲碁などじっくり考えるゲームが好きな方まで、幅広い方にお楽しみいただけます。
 
-空間認識能力が問われる新感覚の対局を味わってみてください。
+## 使うタイルについて
+
+以下の6種類です。
+
+<figure class="third">
+	<img src="{{ site.url }}/assets/img/works/slashchain_square.png" class="img-border">
+	<img src="{{ site.url }}/assets/img/works/slashchain_arrow.png" class="img-border">
+	<img src="{{ site.url }}/assets/img/works/slashchain_pin.png" class="img-border">
+	<img src="{{ site.url }}/assets/img/works/slashchain_power.png" class="img-border">
+	<img src="{{ site.url }}/assets/img/works/slashchain_cross.png" class="img-border">
+	<img src="{{ site.url }}/assets/img/works/slashchain_parallel.png" class="img-border">
+</figure>
+
+相手も自分も同じタイルを使います。  
+先手は `／` (スラッシュ)、後手は `＼` (バックスラッシュ)のラインを5つ繋げれば勝ちです。
+
+## 2種類のルール
+
+ルールは「五目並べルール」と「連珠ルール」の2種類があります。
+
+五目並べルールはこのゲームの遊び方を覚えるための簡単なルールです。  
+最初はタイルを各種1枚ずつ使ってルールを覚えましょう。  
+慣れてきたらタイルの枚数を増やしてみるとまた違った戦い方になると思います。
+
+五目並べルールでは(少なくとも2枚ずつタイルを使う場合)先手が有利です。  
+そのため先手に禁手を加えてバランスを取ったのが連珠ルールです。  
+先手は禁手を覚える必要がありますが、より奥深い戦術ができるようになります。
 
 <!-- ## 委託販売について
 
@@ -33,9 +59,9 @@ HICHAINはリバーシや将棋のように運要素がない2人用アブスト
 
 [購入する]({{ site.url }}/slashchain-itaku/){: .btn.btn-info} -->
 
-## 対局イメージ
+<!-- ## 対局イメージ
 
-![対局イメージ]({{ site.url }}/assets/img/works/hichain-plus_board.png)
+![対局イメージ]({{ site.url }}/assets/img/works/hichain-plus_board.png) -->
 
 ## 説明書
 
