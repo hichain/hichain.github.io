@@ -38,10 +38,10 @@ HICHAINはリバーシや将棋のように運要素がない2人用アブスト
 
 ## 委託販売について
 
-イエローサブマリン様の店舗にて委託販売しております。  
-詳しくはこちら。
+イエローサブマリン様の店舗、通販にて委託販売しております。  
 
-[購入する]({{ site.url }}/hichain-plus-itaku/){: .btn.btn-info}
+[店頭で購入する]({{ site.url }}/hichain-plus-itaku/){: .btn.btn-info}
+[通販で購入する](https://shop.yellowsubmarine.co.jp/products/detail.php?product_id=76837){: .btn.btn-info}
 
 ## 対局イメージ
 
@@ -68,4 +68,4 @@ HICHAINはリバーシや将棋のように運要素がない2人用アブスト
 |会場価格|2,000円|
 |発売|[ゲームマーケット2018秋]({{ site.url }}/events/gm2018ta)
 
-[購入する]({{ site.url }}/hichain-plus-itaku/){: .btn.btn-info}
+[購入する](https://shop.yellowsubmarine.co.jp/products/detail.php?product_id=76837){: .btn.btn-info}
