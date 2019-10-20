@@ -6,8 +6,8 @@ date: 2018-10-12
 comments: false
 ---
 
-![HIchain Project]({{ site.url }}/{{ site.logo }}){: .img-small}
-<center>HIchain Projectはボードゲーム制作サークルです</center>
+![Hichain Project]({{ site.url }}/{{ site.logo }}){: .img-small}
+<center>Hichain Projectはボードゲーム制作サークルです</center>
 
 ## サークル概要
 
