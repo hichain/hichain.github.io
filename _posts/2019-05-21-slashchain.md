@@ -28,14 +28,7 @@ slashchain (スラッシュチェイン)はシンプルな2人用アブストラ
 
 以下の6種類です。
 
-<figure class="third">
-	<img src="{{ site.url }}/assets/img/works/slashchain_square.png" class="img-border">
-	<img src="{{ site.url }}/assets/img/works/slashchain_arrow.png" class="img-border">
-	<img src="{{ site.url }}/assets/img/works/slashchain_pin.png" class="img-border">
-	<img src="{{ site.url }}/assets/img/works/slashchain_power.png" class="img-border">
-	<img src="{{ site.url }}/assets/img/works/slashchain_cross.png" class="img-border">
-	<img src="{{ site.url }}/assets/img/works/slashchain_parallel.png" class="img-border">
-</figure>
+![tiles](/assets/img/works/slashchain_tiles.png)
 
 相手も自分も同じタイルを使います。  
 先手は `／` (スラッシュ)、後手は `＼` (バックスラッシュ)のラインを5つ繋げれば勝ちです。
