@@ -47,9 +47,10 @@ slashchain (スラッシュチェイン)はシンプルな2人用アブストラ
 
 ## 委託販売について
 
-イエローサブマリン様の店舗にて委託販売しております。
+イエローサブマリン様の店舗やボドゲーマ様の通販にて委託販売しております。
 
-[購入する]({{ site.url }}/slashchain-itaku/){: .btn.btn-info}
+[店頭で購入する]({{ site.url }}/slashchain-itaku/){: .btn.btn-info}
+[通販で購入する]({{ site.url }}/slashchain-itaku-online/){: .btn.btn-info}
 
 <!-- ## 対局イメージ
 
@@ -72,4 +73,4 @@ slashchain (スラッシュチェイン)はシンプルな2人用アブストラ
 |会場価格|2,000円|
 |発売|[ゲームマーケット2019春]({{ site.url }}/events/gm2019ts)
 
-[購入する]({{ site.url }}/slashchain-itaku/){: .btn.btn-info}
+[購入する]({{ site.url }}/slashchain-itaku-online/){: .btn.btn-info}
