@@ -73,6 +73,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-redirect-from
+  - jekyll-target-blank
 
 jekyll-mentions:
     base_url: https://github.com
