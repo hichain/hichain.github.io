@@ -15,6 +15,12 @@ Official Website of Hichain Project
 2. `$ gem install bundler -v {version}`
 3. `$ bundle`
 
+### Running Jekyll Server
+
+```
+$ bundle exec jekyll s
+```
+
 ### Update dependencies
 
 1. update Ruby and RubyGems
