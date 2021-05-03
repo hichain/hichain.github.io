@@ -63,6 +63,7 @@ github-url:         hichain
 #hackernews:        username
 gamemarket:         gm2002
 circlems:           10405300
+hichain-apps:       https://apps.hichain.jp
 
 # Gems
 gems:
