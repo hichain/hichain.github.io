@@ -5,65 +5,84 @@ layout: compress
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
 <head>
     {% include head.html %}
 </head>
+
 <body>
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.icon }}" class="img-circle zoombtn animated rotateIn">
+                <a href="{{ site.url }}">
+                    <img src="{{ site.icon }}" class="img-circle zoombtn animated rotateIn">
+                </a>
+                <h3 class="title">
+                    <a class="zoombtn" href="{{ site.url }}">
+                        <p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
                     </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			            </a>
-                    </h3>
-                    <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
+                </h3>
+                <hr class="hr-line">
+                <h3 class="title">
+                    <a href="{{ site.url }}">
+                        <p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
+                    </a>
+                </h3>
+                {% include social-links.html %}
+                <hr class="hr-line">
+                <h3 class="title">
                     <a class="btn btn-success zoombtn" href="{{ site.url }}/gm2019ta">
                         ゲームマーケット2019秋
                     </a>
-                  </h3>
-                  <hr class="hr-line">
-                  <h3 class="title">
-                        <a class="btn zoombtn" href="{{ site.url }}/about">
-                            About
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/news">
-                            News
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/works">
-                            Works
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/events">
-                            Events
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/contact">
-                            Contact
-                        </a>
-                 </h3>
-                 <hr class="hr-line">
-                 <span class="social-share-home">
-                        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="{{ site.title }} - {{ page.title }}" data-via="hichain_game" data-related="hichain_game" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        <iframe src="https://www.facebook.com/plugins/share_button.php?href={{ site.url }}{{ page.url }}&layout=button_count&size=small&mobile_iframe=true&width=89&height=20&appId" width="89" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-                        <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-counter" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
-                        <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://hichain.jp" style="display: none;"></div><script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+                </h3>
+                <hr class="hr-line">
+                <h3 class="title">
+                    <a class="btn zoombtn" href="{{ site.url }}/about">
+                        About
+                    </a>
+                    <a class="btn zoombtn" href="{{ site.url }}/news">
+                        News
+                    </a>
+                    <a class="btn zoombtn" href="{{ site.url }}/works">
+                        Works
+                    </a>
+                    <a class="btn zoombtn" href="{{ site.url }}/events">
+                        Events
+                    </a>
+                    <a class="btn zoombtn" href="{{ site.url }}/contact">
+                        Contact
+                    </a>
+                </h3>
+                <hr class="hr-line">
+                <span class="social-share-home">
+                    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
+                        data-text="{{ site.title }} - {{ page.title }}" data-via="hichain_game"
+                        data-related="hichain_game" data-show-count="false">Tweet</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <iframe
+                        src="https://www.facebook.com/plugins/share_button.php?href={{ site.url }}{{ page.url }}&layout=button_count&size=small&mobile_iframe=true&width=89&height=20&appId"
+                        width="89" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+                        allowTransparency="true" allow="encrypted-media"></iframe>
+                    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button"
+                        data-hatena-bookmark-layout="basic-counter" title="このエントリーをはてなブックマークに追加"><img
+                            src="https://b.st-hatena.com/images/entry-button/button-only@2x.png"
+                            alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+                    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8"
+                        async="async"></script>
+                    <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://hichain.jp"
+                        style="display: none;"></div>
+                    <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async"
+                        defer="defer"></script>
                 </span>
             </div>
         </div>
     </header>
     {% include scripts.html %}
 </body>
+
 </html>
