@@ -61,20 +61,14 @@ layout: compress
                 <hr class="hr-line">
                 <span class="social-share-home">
                     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
-                        data-text="{{ site.title }} - {{ page.title }}" data-via="hichain_game"
-                        data-related="hichain_game" data-show-count="false">Tweet</a>
+                        data-text="{{ site.title }}" data-via="hichain_game" data-related="hichain_game"
+                        data-show-count="false">Tweet</a>
                     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    <iframe
-                        src="https://www.facebook.com/plugins/share_button.php?href={{ site.url }}{{ page.url }}&layout=button_count&size=small&mobile_iframe=true&width=89&height=20&appId"
-                        width="89" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
-                        allowTransparency="true" allow="encrypted-media"></iframe>
-                    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button"
-                        data-hatena-bookmark-layout="basic-counter" title="このエントリーをはてなブックマークに追加"><img
-                            src="https://b.st-hatena.com/images/entry-button/button-only@2x.png"
-                            alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
-                    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8"
-                        async="async"></script>
-                    <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://hichain.jp"
+                    <div class="fb-share-button" data-href="https://hichain.jp" data-layout="button_count"
+                        data-size="small"><a target="_blank"
+                            href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhichain.jp%2F&amp;src=sdkpreparse"
+                            class="fb-xfbml-parse-ignore">Share</a></div>
+                    <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="{{ site.url }}"
                         style="display: none;"></div>
                     <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async"
                         defer="defer"></script>

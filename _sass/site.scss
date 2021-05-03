@@ -189,13 +189,21 @@ header .entry-meta {
 	display: block;
 	margin-top: 1rem;
 	width: 100%;
-    float: left;
+	float: left;
 	text-align: left;
+
+	> * {
+		vertical-align: bottom;
+	}
 }
 .social-share-home {
 	display: block;
 	margin: 1rem 0;
-	text-align: center;	
+	text-align: center;
+	
+	> * {
+		vertical-align: bottom;
+	}
 }
 .feature {
     @include transition(.5s);
