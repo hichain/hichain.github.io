@@ -7,3 +7,4 @@ gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-redirect-from'
 gem 'jekyll-target-blank'
+gem "webrick", "~> 1.7"
