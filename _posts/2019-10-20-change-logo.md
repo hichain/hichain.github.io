@@ -20,7 +20,7 @@ comments: false
 
 ![new logo](/assets/img/logo.png){: .img-smaller}
 
-![new icon](/assets/img/icon.png){: .img-smaller}
+![new icon](/assets/img/icon_new.png){: .img-smaller}
 
 名称も以下の通り変更します。
 
