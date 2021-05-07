@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HICHAIN PLUS"
-date:   2018-10-21 20:00:00 +0900
+date:   2018-11-25 20:00:00 +0900
 excerpt: "新記号カードを加えてリニューアルしたHICHAIN"
 tags:
 - Works

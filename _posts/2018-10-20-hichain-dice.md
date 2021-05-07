@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HICHAIN DICE"
-date:   2018-10-20 20:00:00 +0900
+date:   2016-12-11 20:00:00 +0900
 excerpt: "カードの強さを公平にしたダイスルールが遊べるHICHAIN"
 tags:
 - Works

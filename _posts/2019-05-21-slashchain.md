@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "slashchain"
-date:   2019-05-20 00:00:00 +0900
+date:   2019-5-26 00:00:00 +0900
 excerpt: "四倍速五目並べ"
 tags:
 - Works
