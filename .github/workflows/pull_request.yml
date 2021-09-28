@@ -12,7 +12,7 @@ jobs:
         ruby-version: [3.x]
     steps:
     - uses: actions/checkout@v2
-    - name: Use Ruby ${{ matrix.node-version }}
+    - name: Use Ruby ${{ matrix.ruby-version }}
       uses: actions/setup-ruby@v1
       with:
         node-version: ${{ matrix.ruby-version }}

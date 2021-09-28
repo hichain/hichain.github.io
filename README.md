@@ -5,7 +5,7 @@ Official Website of Hichain Project
 ## Requirements
 
 - Ruby v3.0.0
-- bundler v2.2.16
+- bundler v2.2.x
 
 ## Usage
 
